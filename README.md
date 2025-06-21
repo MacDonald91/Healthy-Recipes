@@ -1,6 +1,6 @@
 # Healthy-Recipes
 Healthy Recipe Website: A Journey into CSS Structure
-Website Link: https://macdonald91.github.io/Healthy-Recipes/
+Website Link: 
 
 Welcome to the repository for my "Quinoa and Kale Salad Recipe" website! This project was a focused exploration into how CSS is used to structure and style web content, bringing a clean and readable layout to a simple recipe page. It demonstrates fundamental CSS concepts and their application to create a visually organized user experience.
 
